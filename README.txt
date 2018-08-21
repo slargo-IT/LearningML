@@ -2,4 +2,4 @@
 // From linear to complex model
 // Using LIB for IOT and embedded designs
 // Fun & chill.
-// For more specifics Machine Learning check Machine Learning in C++ or Machine Learning with python
+// For others specifics Machine Learning topics check Machine Learning in C++ or Machine Learning with python
