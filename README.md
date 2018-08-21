@@ -1,4 +1,5 @@
-// In this section i will learn ML in C language.
+// In this section i will learn & praticing Machine Learning ONLY in C language.
 // From linear to complex model
 // Using LIB for IOT and embedded designs
-// Do whatever you want with this code.
+// Fun & chill.
+// For more specifics Machine Learning check Machine Learning in C++ or Machine Learning with python
